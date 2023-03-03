@@ -4,8 +4,8 @@ commands = ["show version","show platform","show processes cpu","show memory sum
 
 device = {
     "device_type" : "cisco_ios",
-    "ip" : "10.197.169.68",
-    "username" : "cisco",
+    "ip" : "10.10.10.10",
+    "username" : "root",
     "password" : "root@123",
     "port" : 22
 }
