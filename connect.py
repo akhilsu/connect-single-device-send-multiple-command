@@ -1,6 +1,6 @@
 from netmiko import ConnectHandler
 
-commands = ["show version","show platform"]
+commands = ["show version","show platform","show processes cpu","show memory summary","show bgp scale"]
 
 device = {
     "device_type" : "cisco_ios",
